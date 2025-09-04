@@ -1,0 +1,24 @@
+{
+  "name": "PMT tweak",
+  "version": "1.0.0",
+  "description": "Smart revise flashcard doesn't have an ergonomic shortcut. This extension provide a great shortcut.",
+  "manifest_version": 3,
+  "author": "Cephas Yeung",
+
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["https://smartrevise.online/*"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "My Popup"
+  },
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  }
+}
