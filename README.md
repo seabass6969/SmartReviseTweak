@@ -8,15 +8,20 @@
 
 Download the `.xpi` files in
 ![https://github.com/seabass6969/SmartReviseTweak/releases](https://github.com/seabass6969/SmartReviseTweak/releases)
+
 Firefox should automatically prompt you to install it.
 
 ### Chrome / Edge / Brave / Chromium Based Browser
 
 Download the `.crx` files in
 ![https://github.com/seabass6969/SmartReviseTweak/releases](https://github.com/seabass6969/SmartReviseTweak/releases)
-Drag the `.crx` files in to
+
+Drag the `.crx` files in to:
+
 Brave: `brave://extensions/`
+
 Chrome: `chrome://extensions/`
+
 You need to approve the files when installing.
 
 ## For example
